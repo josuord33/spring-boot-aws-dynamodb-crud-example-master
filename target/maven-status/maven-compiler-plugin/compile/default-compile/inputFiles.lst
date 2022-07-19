@@ -1,0 +1,6 @@
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/entity/Address.java
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/repository/CustomerRepository.java
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/entity/Customer.java
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/config/DynamoDBConfiguration.java
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/SpringBootDynamodbExampleApplication.java
+/Users/n665034/demo/spring-boot-aws-dynamodb-crud-example-master/src/main/java/com/techgeeknext/controller/CustomerController.java

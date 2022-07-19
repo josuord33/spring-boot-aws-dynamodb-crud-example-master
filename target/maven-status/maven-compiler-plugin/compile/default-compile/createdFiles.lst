@@ -1,0 +1,6 @@
+com/techgeeknext/SpringBootDynamodbExampleApplication.class
+com/techgeeknext/entity/Address.class
+com/techgeeknext/repository/CustomerRepository.class
+com/techgeeknext/controller/CustomerController.class
+com/techgeeknext/config/DynamoDBConfiguration.class
+com/techgeeknext/entity/Customer.class
